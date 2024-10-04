@@ -1,5 +1,7 @@
 import './App.css';
 import ClearPath from './components/ClearPath';
+import Frequently from './components/Frequently';
+import InterestedCard from './components/InterestedCard';
 import StopPaying from './components/StopPaying';
 import Transparency from './components/Transparency';
 import WebservsCards from './components/WebservsCards';
@@ -12,7 +14,9 @@ function App() {
       <WhyWebserv />
       <WebservsCards />
       <ClearPath />
-      <Transparency/>
+      <Transparency />
+      {/* <Frequently/> */}
+      <InterestedCard/>
     </>
   );
 }

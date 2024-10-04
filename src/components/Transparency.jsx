@@ -3,7 +3,7 @@ import transparency from '../assets/images/webp/tranperency-image.webp'
 
 const Transparency = () => {
   return (
-      <div> 
+      <div className='pb-[158px]'> 
           <div className='container'>
               <div className='flex items-center justify-between'>
                   <div className='max-w-[558px]'>
