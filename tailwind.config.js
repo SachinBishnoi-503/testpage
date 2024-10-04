@@ -5,6 +5,9 @@ module.exports = {
   ],
   theme: {
     extend: {
+      backgroundImage: {
+        'blue-card': "url('./assets/images/webp/bg-layer.webp')",
+      },
       fontFamily: {
         'Messiri': "'El Messiri', sans-serif",
         'Lato': "'Lato', sans-serif",

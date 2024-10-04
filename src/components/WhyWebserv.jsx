@@ -4,7 +4,7 @@ import cardsvg2 from '../assets/images/svg/why-card-svg2.svg'
 import cardsvg3 from '../assets/images/svg/why-card-svg3.svg'
 const WhyWebserv = () => {
   return (
-    <div className='pt-[130px]'>
+    <div className='pt-[130px] mb-[130px]'>
       <div className='container'>
         <div className='flex justify-center  flex-col items-center'>
           <a className='py-2 px-[15px] border rounded-lg border-sky-blue text-dark-blue text-[12px] font-normal font-Messiri leading-[18px] bg-soft-blue' href="">Performance Marketing Agency</a>
