@@ -4,9 +4,9 @@ import image2 from '../assets/images/webp/intrested-card-image2.webp'
 
 const InterestedCard = () => {
     return (
-        <div>
+        <div className='z-10 relative'>
             <div className='container'>
-                <div className='w-full rounded-[22px] shadow-4xl mx-auto'>
+                <div className='w-full pb-[45px] rounded-[22px] shadow-4xl mx-auto bg-white'>
                     <div className='flex flex-col justify-center items-center pt-[45px]'>
                         <h2 className='text-dark-blue text-custom-xl leading-custom-2xl font-bold font-Messiri'>Interested In learning More?</h2>
                         <p className='text-gray font-normal text-base leading-6 font-Lato max-w-[621px] text-center'>Contact us today to explore how our dual service solution can help your treatment center achieve its growth objectives.</p>

@@ -1,5 +1,6 @@
 import './App.css';
 import ClearPath from './components/ClearPath';
+import Footer from './components/Footer';
 import Frequently from './components/Frequently';
 import InterestedCard from './components/InterestedCard';
 import StopPaying from './components/StopPaying';
@@ -16,7 +17,8 @@ function App() {
       <ClearPath />
       <Transparency />
       {/* <Frequently/> */}
-      <InterestedCard/>
+      <InterestedCard />
+      <Footer/>
     </>
   );
 }
