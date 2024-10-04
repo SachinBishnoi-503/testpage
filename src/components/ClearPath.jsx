@@ -12,7 +12,7 @@ const ClearPath = () => {
                   <p className='font-Lato font-normal text-base leading-6 text-gray mt-5'>Elevated performance call center focussing on quality of service and transparency.</p>
               </div>
               <div className='flex flex-row flex-wrap -mx-3 mt-[40px]'>
-                  <div className='w-1/3 px-3'>
+                  <div className='w-1/3 px-3 max-lg:w-1/2 max-md:min-w-full max-lg:py-3'>
                       <div className='p-[20px_32px_79px_32px] shadow-3xl border rounded-xl flex flex-col items-center border-mist-gray group hover:bg-dark-blue duration-300 ease-linear'>
                           <div className='w-[99px] min-h-[96px] flex justify-center bg-dark-blue mt-[-34px] rounded-[6px] border border-dark-blue'>
                               <img src={materical} alt=""  />
@@ -21,7 +21,7 @@ const ClearPath = () => {
                           <p className='font-Lato font-normal text-base leading-6 text-blue-gray mt-4 group-hover:text-white'>Our services are designed to streamline operations and increase admits without compromising on quality or patient care</p>
                       </div>
                   </div>
-                  <div className='w-1/3 px-3'>
+                  <div className='w-1/3 px-3 max-lg:w-1/2 max-md:min-w-full max-lg:py-3'>
                       <div className='p-[20px_32px_26px_32px] shadow-3xl border rounded-xl flex flex-col items-center border-mist-gray group hover:bg-dark-blue duration-300 ease-linear'>
                           <div className='w-[99px] min-h-[96px] flex justify-center bg-dark-blue mt-[-34px] rounded-[6px] border border-dark-blue'>
                               <img src={dahboard} alt="" />
@@ -30,7 +30,7 @@ const ClearPath = () => {
                           <p className='font-Lato font-normal text-base leading-6 text-blue-gray mt-4 group-hover:text-white max-w-[300px] text-center'>We provide each center with a fully client-owned CRM and dashboard, offering full transparency and control over the entire process.</p>
                       </div>
                   </div>
-                  <div className='w-1/3 px-3'>
+                  <div className='w-1/3 px-3 max-lg:w-1/2 max-md:min-w-full max-lg:py-3'>
                       <div className='p-[20px_32px_55px_32px] shadow-3xl border rounded-xl flex flex-col items-center border-mist-gray group hover:bg-dark-blue duration-300 ease-linear'>
                           <div className='w-[99px] min-h-[96px] flex justify-center bg-dark-blue mt-[-34px] rounded-[6px] border border-dark-blue'>
                               <img src={contact} alt="" />

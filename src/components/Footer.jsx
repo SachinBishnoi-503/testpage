@@ -12,7 +12,7 @@ const Footer = () => {
     return (
         <div className='bg-dark-blue pt-[227px] mt-[-147px]'>
             <div className='container'>
-                <div className='flex justify-between pb-[46px]'>
+                <div className='flex justify-between pb-[46px] max-md:flex-col'>
                     <div className='flex flex-col '>
                         <img src={logofooter} alt="footer-logo-not-found" className='max-w-[138px] min-h-[40px]' />
                         <p className='text-mist-gray font-Lato font-normal text-base leading-6 max-w-[364px] pt-[22px]'>Lorem ipsum dolor sit amet consectetur. Commodo facilisi augue pellentesque id vitae faucibus. Odio blandit non mi donec non ipsum sed volutpat. </p>
@@ -32,7 +32,7 @@ const Footer = () => {
 
                         </div>
                     </div>
-                    <div className='flex  gap-[98px]'>
+                    <div className='flex  gap-[98px] max-md:pt-3'>
                         <div className='flex-col flex items-start '>
                             <h2 className='font-semibold text-2xl leading-7 text-white font-Messiri'>Services</h2>
                             <p className='font-Lato font-normal text-base leading-6 opacity-80 text-white pt-[20px]'>Home</p>

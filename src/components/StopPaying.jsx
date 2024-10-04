@@ -10,11 +10,11 @@ const StopPaying = () => {
                   <h1 className='font-bold text-custom-xl font-Messiri leading-custom-2xl text-dark-blue'>Stop Paying Top Dollar For Poor Leads</h1>
                   <p className='max-w-[836px] text-center text-gray font-Lato font-normal leading-6 text-base pt-4'>Leverage seasoned industry marketers to position your center as the go-to for treatment seekers and seamlessly transition them to admissions experts for maximum facility growth.</p>
               </div>
-              <div className='w-full flex items-center justify-between pt-[40px]'>
+              <div className='w-full flex items-center justify-between pt-[40px] max-lg:flex-col'>
                   <div className='max-w-[348px]'>
                       <img className='w-full' src={payingimage} alt="stop-paying-image-not-found" />
                   </div>
-                  <div className='flex-col '>
+                  <div className='flex-col max-lg:pt-[22px]'>
                       <div className='py-5 px-5 shadow-3xl rounded-[12px]'>
                           <div className='flex items-center gap-[10px]'>
                               <img src={cardimage1} alt="card-1-image-mot-found" className='max-w-[30px] min-h-[30px]' />
