@@ -20,14 +20,14 @@ const StopPaying = () => {
                               <img src={cardimage1} alt="card-1-image-mot-found" className='max-w-[30px] min-h-[30px]' />
                               <h2 className='text-dark-blue font-Messiri font-semibold text-2xl leading-7'>Pay-Per-Click Advertising</h2>
                           </div>
-                          <p className='font-Lato font-normal text-base leading-6 text-blue-gray max-w-[478px] pt-4'>Their targeted ad campaigns, precise keyword selection, and conversion rate optimization ensures that your center captures high-intent leads.</p>
+                          <p className='font-Lato font-normal text-base leading-6 text-blue-gray max-w-[520px] pt-4 pl-[45px]'>Their targeted ad campaigns, precise keyword selection, and conversion rate optimization ensures that your center captures high-intent leads.</p>
                       </div>
                       <div className='py-5 px-5 shadow-3xl rounded-[12px] mt-5'>
                           <div className='flex items-center gap-[10px]'>
                               <img src={cardimage2} alt="card-1-image-mot-found" className='max-w-[30px] min-h-[30px]' />
                               <h2 className='text-dark-blue font-Messiri font-semibold text-2xl leading-7'>Outsourced Admissions Team</h2>
                           </div>
-                          <p className='font-Lato font-normal text-base leading-6 text-blue-gray max-w-[478px] pt-4'>Their team specializes in navigating out-of-network policies and provides a dashboard to track metrics such as daily leads and pending VOBs.</p>
+                          <p className='font-Lato font-normal text-base leading-6 pl-[45px] text-blue-gray max-w-[520px] pt-4'>Their team specializes in navigating out-of-network policies and provides a dashboard to track metrics such as daily leads and pending VOBs.</p>
                       </div>
                       
                   </div>
