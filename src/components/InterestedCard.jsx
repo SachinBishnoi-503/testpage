@@ -8,8 +8,8 @@ const InterestedCard = () => {
             <div className='container'>
                 <div className='w-full pb-[45px] rounded-[22px] shadow-4xl mx-auto bg-white'>
                     <div className='flex flex-col justify-center items-center pt-[45px]'>
-                        <h2 className='text-dark-blue text-custom-xl leading-custom-2xl font-bold font-Messiri'>Interested In learning More?</h2>
-                        <p className='text-gray font-normal text-base leading-6 font-Lato max-w-[621px] text-center'>Contact us today to explore how our dual service solution can help your treatment center achieve its growth objectives.</p>
+                        <h2 className='text-dark-blue max-md:text-2xl md:text-custom-xl leading-custom-2xl font-bold font-Messiri'>Interested In learning More?</h2>
+                        <p className='text-gray font-normal max-md:text-sm md:text-base leading-6 font-Lato max-w-[621px] text-center'>Contact us today to explore how our dual service solution can help your treatment center achieve its growth objectives.</p>
                     </div>
                     <div className='flex items-center justify-center gap-[62px] pt-[40px] max-lg:flex-col'>
                         <div className='p-[10px] border border-gray rounded-xl flex items-center gap-3'>

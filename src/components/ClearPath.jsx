@@ -8,7 +8,7 @@ const ClearPath = () => {
       <div className='pb-[130px]'>
           <div className='container'>
               <div className='flex items-center flex-col'>
-                  <h2 className='font-Messiri font-bold text-custom-xl leading-custom-2xl text-dark-blue'>ClearPath Treatment Solutions</h2>
+                  <h2 className='font-Messiri font-bold max-md:text-2xl md:text-custom-xl leading-custom-2xl text-dark-blue'>ClearPath Treatment Solutions</h2>
                   <p className='font-Lato font-normal text-base leading-6 text-gray mt-5'>Elevated performance call center focussing on quality of service and transparency.</p>
               </div>
               <div className='flex flex-row flex-wrap -mx-3 mt-[40px]'>
